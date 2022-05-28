@@ -1,1 +1,1 @@
-# California_housing_price_prediction
+# California_house_price_prediction
