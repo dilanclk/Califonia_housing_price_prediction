@@ -2,7 +2,7 @@
 In this project I used California census data from the StatLib repository to build a model of housing prices in the state.This dataset contains 20640 instances and 10 attributes.
 
 
-**These features are:**
+**These attributes are:**
 * Longitude
 * Latitude
 * Housing Median Age
