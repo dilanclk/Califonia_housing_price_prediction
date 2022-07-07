@@ -1,4 +1,4 @@
-# California_house_price_prediction
+# California House Price Prediction
 In this project I used California census data from the StatLib repository to build a model of housing prices in the state.This dataset contains 20640 instances and 10 attributes.
 
 
@@ -18,7 +18,7 @@ This is a typical **supervised learning** task, and also a **univariate regressi
 
 ## Overview
 The main steps I went through:
-- Get the data
+- Fetch the data
 - Discover and visualize the data to gain insights
 - Prepare the data for Machine Learning algorithms
 - Select a model and train it
